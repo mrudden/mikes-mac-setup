@@ -4,7 +4,7 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
 2. Install the following tools:
-Homebrew:
+## Homebrew
  * cask
  * neofetch
  * python
@@ -16,7 +16,7 @@ Homebrew:
  * woff2
 
 
-Cask:
+## Cask
  * firefox
  * iterm2
  * visual-studio-code
@@ -41,7 +41,7 @@ Cask:
 # * vlc
 
 
-App Store:
+## App Store
  * XCode
  * Apple Developer
  * 1password
@@ -57,7 +57,7 @@ App Store:
  * Kindle
 
 
-Web:
+## Web
  * VMware Fusion Player
 # * BetterTouchTool
  * Citrix Workspace
