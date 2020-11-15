@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Starting setup procedure!"
+echo "=== Starting setup procedure! ==="
 
 # Install Homebrew if not installed
 #/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
