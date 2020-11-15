@@ -6,58 +6,59 @@
 2. Install the following tools:
 Homebrew:
  * cask
- * brew cask install visual-studio-code
- * Go
- * Python3
- * Terraform
- * Node
- * iterm2
  * neofetch
-# * https://github.com/google/woff2
-# * woff2
- * cask install osquery
-# * hugo
+ * python
+ * go
  * wget
- * cask install docker
- * kubectl
+ * terraform
+ * node
+ * hugo
+ * woff2
+
+
+Cask:
+ * firefox
+ * iterm2
+ * visual-studio-code
+ * github
+ * docker
  * vagrant
- * GitHub
+ * osquery
+ * postman
  * daisydisk
  * balenaetcher
- * Spotify
- * firefox
- * steam
- * discord
  * UNetbootin
- * Zoomus
- * Postman
- * cask install dropbox
- * cask install battle-net
-# * cask install makemkv
-# * cask install handbrake
+ * bartender
+# * dropbox
+ * discord
+# * signal
+ * zoomus
+ * spotify
+ * steam
+ * battle-net
+# * makemkv
+# * handbrake
+# * vlc
+
 
 App Store:
  * XCode
+ * Apple Developer
  * 1password
- * Slack
  * Wipr
- * Trello
- * Transmit
- * OneNote
- * OneDrive
- * Word
- * Excel
- * PowerPoint
- * Outlook
- * Kindle
+ * Nord VPN
  * Tooth Fairy
  * Magnet
- * Apple Developer
- * Nord VPN
+ * Microsoft 365
+ * Microsoft Remote Desktop
+ * Trello
+# * Transmit
+ * Slack
+ * Kindle
+
 
 Web:
  * VMware Fusion Player
-# * Windows via Bootcamp
 # * BetterTouchTool
  * Citrix Workspace
  * Unifi Controller
