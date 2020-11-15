@@ -15,7 +15,7 @@ Homebrew:
  * neofetch
 # * https://github.com/google/woff2
 # * woff2
-# * osquery
+# * cask install osquery
 # * hugo
  * wget
  * cask install docker
