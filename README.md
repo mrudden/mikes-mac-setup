@@ -15,7 +15,7 @@ Homebrew:
  * neofetch
 # * https://github.com/google/woff2
 # * woff2
-# * cask install osquery
+ * cask install osquery
 # * hugo
  * wget
  * cask install docker
@@ -33,6 +33,8 @@ Homebrew:
  * Postman
  * cask install dropbox
  * cask install battle-net
+# * cask install makemkv
+# * cask install handbrake
 
 App Store:
  * XCode
