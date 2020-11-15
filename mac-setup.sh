@@ -13,14 +13,14 @@ brew_formulae=(cask neofetch python go wget terraform node hugo woff2 java)
 brew_cask_formulae=(test1 test2 test3)
 
 # Pseudocode: for formula in brew_formulae: brew install $formula
-echo "==Installing homebrew formulae=="
+echo "== Installing homebrew formulae =="
 for i in "${brew_formulae[@]}"
 do
 	echo "brew install $i"
 done
 
 # Pseudocode: for formula in brew_cask_formulae: brew cask install $formula
-echo "==Installing homebrew cask formulae=="
+echo "== Installing homebrew cask formulae =="
 for i in "${brew_cask_formulae[@]}"
 do
 	echo "brew install $i"
