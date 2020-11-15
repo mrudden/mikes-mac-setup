@@ -29,16 +29,16 @@
  * balenaetcher
  * UNetbootin
  * bartender
-# * dropbox
+ * #dropbox
  * discord
-# * signal
+ * #signal
  * zoomus
  * spotify
+ * #makemkv
+ * #handbrake
+ * #vlc
  * steam
  * battle-net
-# * makemkv
-# * handbrake
-# * vlc
 
 
 ## App Store
@@ -52,14 +52,14 @@
  * Microsoft 365
  * Microsoft Remote Desktop
  * Trello
-# * Transmit
+ * #Transmit
  * Slack
  * Kindle
 
 
 ## Web
  * VMware Fusion Player
-# * BetterTouchTool
+ * #BetterTouchTool
  * Citrix Workspace
  * Unifi Controller
  * Java
