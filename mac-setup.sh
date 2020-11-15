@@ -33,7 +33,7 @@ brew_cask_formulae=(
   postman
   daisydisk
   balenaetcher
-  UNetbootin
+  unetbootin
   bartender
   #BetterTouchTool
   #dropbox
