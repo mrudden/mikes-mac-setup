@@ -8,9 +8,45 @@ echo "=== Starting setup procedure! ==="
 #brew update
 
 # Brew formulae
-brew_formulae=(cask neofetch python go wget terraform node hugo woff2 java)
+brew_formulae=(
+  cask
+  neofetch
+  python
+  go
+  wget
+  terraform
+  node
+  hugo
+  woff2
+  java
+  )
+
 # Brew Cask formulae
-brew_cask_formulae=(test1 test2 test3)
+brew_cask_formulae=(
+  firefox
+  iterm2
+  visual-studio-code
+  github
+  docker
+  vagrant
+  osquery
+  postman
+  daisydisk
+  balenaetcher
+  UNetbootin
+  bartender
+  #BetterTouchTool
+  #dropbox
+  discord
+  #signal
+  zoomus
+  spotify
+  #makemkv
+  #handbrake
+  #vlc
+  steam
+  battle-net
+  )
 
 # Pseudocode: for formula in brew_formulae: brew install $formula
 echo "== Installing homebrew formulae =="
