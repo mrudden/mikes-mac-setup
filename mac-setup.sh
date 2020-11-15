@@ -1,9 +1,13 @@
-#!/bin/bash
+#!/bin/sh
 
 echo "=== Starting setup procedure! ==="
 
 # Install Homebrew if not installed
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+if brew | grep "command not found"; then
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+else 
+ echo "Homebrew already installed. Skipping installation."
+fi
 
 brew update
 
