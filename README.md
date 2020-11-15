@@ -3,7 +3,7 @@
 ## Instructions
 
 1. Install homebrew using the following command:
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
 
 2. Install the following tools using the method in their respected headers
 
