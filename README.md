@@ -8,62 +8,63 @@
 2. Install the following tools using the method in their respected headers
 
 ### Homebrew
- * cask
- * neofetch
- * python
- * go
- * wget
- * terraform
- * node
- * hugo
- * woff2
- * java
+* cask
+* neofetch
+* python
+* go
+* wget
+* terraform
+* node
+* hugo
+* woff2
+* java
 
 
 ### Cask
- * firefox
- * iterm2
- * visual-studio-code
- * github
- * docker
- * vagrant
- * osquery
- * postman
- * daisydisk
- * balenaetcher
- * UNetbootin
- * bartender
- * #BetterTouchTool
- * #dropbox
- * discord
- * #signal
- * zoomus
- * spotify
- * #makemkv
- * #handbrake
- * #vlc
- * steam
- * battle-net
+* firefox
+* iterm2
+* visual-studio-code
+* github
+* docker
+* vagrant
+* osquery
+* postman
+* daisydisk
+* balenaetcher
+* UNetbootin
+* bartender
+* #BetterTouchTool
+* #dropbox
+* discord
+* #signal
+* zoomus
+* spotify
+* #makemkv
+* #handbrake
+* #vlc
+* steam
+* battle-net
 
 
 ### Apple App Store
- * XCode
- * Apple Developer
- * 1password
- * Wipr
- * Nord VPN
- * Tooth Fairy
- * Magnet
- * Microsoft 365
- * Microsoft Remote Desktop
- * Trello
- * #Transmit
- * Slack
- * Kindle
+* XCode
+* Apple Developer
+* 1password
+* Wipr
+* Nord VPN
+* Tooth Fairy
+* Magnet
+* Microsoft 365
+* Microsoft Remote Desktop
+* Trello
+* #Transmit
+* Slack
+* Kindle
 
 
 ### Web
- * [Turbo Boost Switcher Pro](https://gumroad.com/l/YeBQUF)
- * [VMware Fusion Player](https://www.vmware.com/products/fusion/fusion-evaluation.html)
- * [Unifi Network Controller](https://www.ui.com/download/unifi/)
- * [Citrix Workspace](https://www.citrix.com/downloads/workspace-app/mac/workspace-app-for-mac-latest.html)
+* [Turbo Boost Switcher Pro](https://gumroad.com/l/YeBQUF)
+* [VMware Fusion Player](https://www.vmware.com/products/fusion/fusion-evaluation.html)
+* [Unifi Network Controller](https://www.ui.com/download/unifi/)
+* [Citrix Workspace](https://www.citrix.com/downloads/workspace-app/mac/workspace-app-for-mac-latest.html)
+
