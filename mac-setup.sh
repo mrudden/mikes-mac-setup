@@ -23,7 +23,7 @@ done
 echo "== Installing homebrew cask formulae =="
 for i in "${brew_cask_formulae[@]}"
 do
-	echo "brew install $i"
+	echo "brew cask install $i"
 done
 
 # Java notes for homebrew - from "brew info java"
