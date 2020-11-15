@@ -17,6 +17,7 @@
  * node
  * hugo
  * woff2
+ * java
 
 
 ### Cask
@@ -62,7 +63,6 @@
 
 
 ### Web
- * [Java](https://www.java.com/en/download/apple.jsp)
  * [Turbo Boost Switcher Pro](https://gumroad.com/l/YeBQUF)
  * [VMware Fusion Player](https://www.vmware.com/products/fusion/fusion-evaluation.html)
  * [Unifi Network Controller](https://www.ui.com/download/unifi/)
