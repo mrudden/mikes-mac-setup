@@ -1,5 +1,4 @@
 # mikes-mac-setup
- 
 
 1. Install homebrew using the following command:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
