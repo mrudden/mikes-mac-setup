@@ -7,6 +7,8 @@
 
 2. Install the following tools using the method in their respected headers
 
+## Tools/Applications
+
 ### Homebrew
 * cask
 * neofetch
