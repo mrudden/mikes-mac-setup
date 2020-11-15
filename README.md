@@ -74,11 +74,15 @@
 
 ## Run any additional steps needed
 Java notes for homebrew - from "brew info java"
-For the system Java wrappers to find this JDK, symlink it with
+
+For the system Java wrappers to find this JDK, symlink it with:
+
 `sudo ln -sfn /usr/local/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk`
 
 If you need to have openjdk first in your PATH run:
+
 `echo 'export PATH="/usr/local/opt/openjdk/bin:$PATH"' >> ~/.zshrc`
 
 For compilers to find openjdk you may need to set:
+
 `export CPPFLAGS="-I/usr/local/opt/openjdk/include"`
