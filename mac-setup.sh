@@ -78,3 +78,5 @@ echo 'export PATH="/usr/local/opt/openjdk/bin:$PATH"' >> ~/.zshrc
 
 #For compilers to find openjdk you may need to set:
 export CPPFLAGS="-I/usr/local/opt/openjdk/include"
+
+echo "=== Setup complete! ==="
