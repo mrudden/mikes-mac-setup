@@ -8,17 +8,23 @@ echo "Starting setup procedure!"
 #brew update
 
 # Brew formulae
-brew_formulae=(test1 test2 test3)
+brew_formulae=(cask neofetch python go wget terraform node hugo woff2 java)
 # Brew Cask formulae
 brew_cask_formulae=(test1 test2 test3)
 
 # Pseudocode: for formula in brew_formulae: brew install $formula
+echo "==Installing homebrew formulae=="
 for i in "${brew_formulae[@]}"
 do
-	echo $i
+	echo "brew install $i"
 done
 
 # Pseudocode: for formula in brew_cask_formulae: brew cask install $formula
+echo "==Installing homebrew cask formulae=="
+for i in "${brew_cask_formulae[@]}"
+do
+	echo "brew install $i"
+done
 
 # Java notes for homebrew - from "brew info java"
 #For the system Java wrappers to find this JDK, symlink it with
