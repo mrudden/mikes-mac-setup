@@ -42,6 +42,7 @@
 * #dropbox
 * discord
 * #signal
+* zoom
 * spotify
 * #makemkv
 * #handbrake

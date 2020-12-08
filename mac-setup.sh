@@ -23,7 +23,6 @@ brew_formulae=(
   hugo
   woff2
   java
-  zoom
   )
 
 # Brew Cask formulae
@@ -44,6 +43,7 @@ brew_cask_formulae=(
   #dropbox
   discord
   #signal
+  zoom
   spotify
   #makemkv
   #handbrake
