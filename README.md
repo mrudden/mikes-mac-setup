@@ -22,6 +22,7 @@
 * hugo
 * woff2
 * java
+* zoom
 
 
 ### Cask
@@ -41,7 +42,6 @@
 * #dropbox
 * discord
 * #signal
-* zoomus
 * spotify
 * #makemkv
 * #handbrake
