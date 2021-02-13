@@ -19,7 +19,7 @@ brew_formulae=(
   go
   wget
   terraform
-  node
+  node@14
   hugo
   woff2
   java
