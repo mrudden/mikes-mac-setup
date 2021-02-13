@@ -23,6 +23,7 @@ brew_formulae=(
   hugo
   woff2
   java
+  cowsay
   )
 
 # Brew Cask formulae
