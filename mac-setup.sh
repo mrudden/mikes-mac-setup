@@ -68,6 +68,16 @@ do
 	brew install --cask $i
 done
 
+# Node install notes
+#node@14 is keg-only, which means it was not symlinked into /usr/local,
+#because this is an alternate version of another formula.
+
+#If you need to have node@14 first in your PATH, run:
+echo 'export PATH="/usr/local/opt/node@14/bin:$PATH"' >> ~/.zshrc
+#For compilers to find node@14 you may need to set:
+export LDFLAGS="-L/usr/local/opt/node@14/lib"
+export CPPFLAGS="-I/usr/local/opt/node@14/include"
+
 # Java notes for homebrew - from "brew info java"
 #For the system Java wrappers to find this JDK, symlink it with
 sudo ln -sfn /usr/local/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk
