@@ -24,6 +24,7 @@ brew_formulae=(
   woff2
   java
   cowsay
+  figlet
   )
 
 # Brew Cask formulae
