@@ -11,6 +11,9 @@ fi
 
 brew update
 
+# Add Brew Cask for Fonts
+brew tap homebrew/cask-fonts
+
 # Brew formulae
 brew_formulae=(
   cask
