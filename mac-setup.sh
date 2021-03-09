@@ -47,12 +47,13 @@ brew_cask_formulae=(
   #BetterTouchTool
   #dropbox
   discord
-  #signal
+  signal
   zoom
   spotify
-  #makemkv
-  #handbrake
-  #vlc
+  gimp
+  makemkv
+  handbrake
+  vlc
   steam
   battle-net
   )
