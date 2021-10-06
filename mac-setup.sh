@@ -28,6 +28,7 @@ brew_formulae=(
   java
   cowsay
   figlet
+  youtube-dl
   )
 
 # Brew Cask formulae
