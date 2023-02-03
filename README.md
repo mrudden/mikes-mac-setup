@@ -17,23 +17,20 @@
 * go
 * wget
 * terraform
-* node
-* hugo
 * woff2
-* #java
-* zoom
+* cowsay
+* figlet
 * youtube-dl
-
+* #java
 
 ### Cask
-* firefox
 * iterm2
+* firefox
 * visual-studio-code
 * github
-* docker
-* vagrant
-* osquery
-* postman
+* #docker
+* #osquery
+* #postman
 * daisydisk
 * balenaetcher
 * UNetbootin
@@ -41,12 +38,12 @@
 * #BetterTouchTool
 * #dropbox
 * discord
-* #signal
-* zoom
+* signal
+* #zoom
 * spotify
-* #makemkv
-* #handbrake
-* #vlc
+* makemkv
+* handbrake
+* vlc
 * steam
 * battle-net
 
