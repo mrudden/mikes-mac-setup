@@ -16,31 +16,27 @@ brew tap homebrew/cask-fonts
 
 # Brew formulae
 brew_formulae=(
-  cask
   neofetch
   python
   go
   wget
   terraform
-  node@14
-  hugo
   woff2
-  java
   cowsay
   figlet
   youtube-dl
+  #java
   )
 
 # Brew Cask formulae
 brew_cask_formulae=(
-  firefox
   iterm2
+  firefox
   visual-studio-code
   github
-  docker
-  vagrant
-  osquery
-  postman
+  #docker
+  #osquery
+  #postman
   daisydisk
   balenaetcher
   unetbootin
@@ -49,9 +45,8 @@ brew_cask_formulae=(
   #dropbox
   discord
   signal
-  zoom
+  #zoom
   spotify
-  gimp
   makemkv
   handbrake
   vlc
@@ -74,26 +69,20 @@ do
 done
 
 # Node install notes
-#node@14 is keg-only, which means it was not symlinked into /usr/local,
-#because this is an alternate version of another formula.
-
-#If you need to have node@14 first in your PATH, run:
-echo 'export PATH="/usr/local/opt/node@14/bin:$PATH"' >> ~/.zshrc
-#For compilers to find node@14 you may need to set:
-export LDFLAGS="-L/usr/local/opt/node@14/lib"
-export CPPFLAGS="-I/usr/local/opt/node@14/include"
+# I no longer use brew to install node. Check out nvm:
+#https://github.com/nvm-sh/nvm#installing-and-updating
 
 # Java notes for homebrew - from "brew info java"
 #For the system Java wrappers to find this JDK, symlink it with
-sudo ln -sfn /usr/local/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk
+#sudo ln -sfn /usr/local/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk
 
 #openjdk is keg-only, which means it was not symlinked into /usr/local,
 #because it shadows the macOS `java` wrapper.
 
 #If you need to have openjdk first in your PATH run:
-echo 'export PATH="/usr/local/opt/openjdk/bin:$PATH"' >> ~/.zshrc
+#echo 'export PATH="/usr/local/opt/openjdk/bin:$PATH"' >> ~/.zshrc
 
 #For compilers to find openjdk you may need to set:
-export CPPFLAGS="-I/usr/local/opt/openjdk/include"
+#export CPPFLAGS="-I/usr/local/opt/openjdk/include"
 
 echo "=== Setup complete! ==="
