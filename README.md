@@ -12,7 +12,6 @@
 ## Tools/Applications
 
 ### Homebrew
-* cask
 * neofetch
 * python
 * go
