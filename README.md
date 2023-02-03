@@ -9,6 +9,8 @@
 
 3. Install the following tools using the method in their respected headers
 
+4. For easy mode on the homebrew installs, run this command after checking `mac-setup.sh` to see if it's what you really want: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/mrudden/mikes-mac-setup/main/mac-setup.sh)"`
+
 ## Tools/Applications
 
 ### Homebrew
