@@ -21,7 +21,7 @@
 * node
 * hugo
 * woff2
-* java
+* #java
 * zoom
 * youtube-dl
 
@@ -57,7 +57,6 @@
 * Apple Developer
 * 1password
 * Wipr
-* Nord VPN
 * Tooth Fairy
 * Magnet
 * Microsoft 365
@@ -71,7 +70,6 @@
 ### Web
 * [Turbo Boost Switcher Pro](https://gumroad.com/l/YeBQUF)
 * [VMware Fusion Player](https://www.vmware.com/products/fusion/fusion-evaluation.html)
-* [Unifi Network Controller](https://www.ui.com/download/unifi/)
 * [Citrix Workspace](https://www.citrix.com/downloads/workspace-app/mac/workspace-app-for-mac-latest.html)
 
 ## Run any additional steps needed
