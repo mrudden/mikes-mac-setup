@@ -25,6 +25,8 @@ brew_formulae=(
   cowsay
   figlet
   youtube-dl
+  nmap
+  podman
   #java
   )
 
