@@ -23,6 +23,7 @@
 * cowsay
 * figlet
 * youtube-dl
+* nmap
 * #java
 
 ### Cask
