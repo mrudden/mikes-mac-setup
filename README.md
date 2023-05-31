@@ -71,6 +71,7 @@
 * [Turbo Boost Switcher Pro](https://gumroad.com/l/YeBQUF)
 * [VMware Fusion Player](https://www.vmware.com/products/fusion/fusion-evaluation.html)
 * [Citrix Workspace](https://www.citrix.com/downloads/workspace-app/mac/workspace-app-for-mac-latest.html)
+* [Podman Desktop](https://podman-desktop.io)
 
 ## Run any additional steps needed
 Java notes for homebrew - from "brew info java"
