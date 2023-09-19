@@ -56,7 +56,7 @@
 ### Apple App Store
 * XCode
 * Apple Developer
-* 1password
+* 1password for Safari
 * Wipr
 * Tooth Fairy
 * Magnet
