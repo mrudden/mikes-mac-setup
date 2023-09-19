@@ -50,6 +50,7 @@
 * vlc
 * steam
 * battle-net
+* 1password
 
 
 ### Apple App Store

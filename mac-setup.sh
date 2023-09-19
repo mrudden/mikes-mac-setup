@@ -54,6 +54,7 @@ brew_cask_formulae=(
   vlc
   steam
   battle-net
+  1password
   )
 
 # Pseudocode: for formula in brew_formulae: brew install $formula
