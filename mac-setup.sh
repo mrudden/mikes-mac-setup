@@ -28,6 +28,7 @@ brew_formulae=(
   nmap
   podman
   #java
+  deno
   )
 
 # Brew Cask formulae

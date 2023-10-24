@@ -26,6 +26,7 @@
 * nmap
 * podman
 * #java
+* deno
 
 ### Cask
 * iterm2
