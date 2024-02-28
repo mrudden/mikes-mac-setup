@@ -30,6 +30,7 @@ brew_formulae=(
   #java
   deno
   openssh
+  ansible
   )
 
 # Brew Cask formulae

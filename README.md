@@ -28,6 +28,7 @@
 * #java
 * deno
 * openssh
+* ansible
 
 ### Cask
 * iterm2
