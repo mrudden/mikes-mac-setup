@@ -26,7 +26,7 @@ brew_formulae=(
   figlet
   youtube-dl
   nmap
-  podman
+  #podman
   #java
   deno
   )
@@ -37,7 +37,7 @@ brew_cask_formulae=(
   firefox
   visual-studio-code
   github
-  #docker
+  docker
   #osquery
   #postman
   daisydisk

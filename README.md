@@ -24,7 +24,7 @@
 * figlet
 * youtube-dl
 * nmap
-* podman
+* #podman
 * #java
 * deno
 
@@ -33,7 +33,7 @@
 * firefox
 * visual-studio-code
 * github
-* #docker
+* docker
 * #osquery
 * #postman
 * daisydisk
