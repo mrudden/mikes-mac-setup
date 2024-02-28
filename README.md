@@ -27,6 +27,7 @@
 * #podman
 * #java
 * deno
+* openssh
 
 ### Cask
 * iterm2

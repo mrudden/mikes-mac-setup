@@ -29,6 +29,7 @@ brew_formulae=(
   #podman
   #java
   deno
+  openssh
   )
 
 # Brew Cask formulae
