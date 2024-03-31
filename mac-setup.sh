@@ -58,6 +58,7 @@ brew_cask_formulae=(
   steam
   battle-net
   1password
+  raspberry-pi-imager
   )
 
 # Pseudocode: for formula in brew_formulae: brew install $formula

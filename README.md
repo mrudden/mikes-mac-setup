@@ -54,6 +54,7 @@
 * steam
 * battle-net
 * 1password
+* raspberry-pi-imager
 
 
 ### Apple App Store
