@@ -29,6 +29,7 @@
 * deno
 * openssh
 * ansible
+* virt-manager
 
 ### Cask
 * iterm2

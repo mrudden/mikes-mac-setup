@@ -31,6 +31,7 @@ brew_formulae=(
   deno
   openssh
   ansible
+  virt-manager
   )
 
 # Brew Cask formulae
