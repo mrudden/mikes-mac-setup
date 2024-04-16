@@ -71,7 +71,7 @@
 * #Transmit
 * Slack
 * Kindle
-
+* [ASUSTOR Control Center](https://www.asustor.com/service/download_acc)
 
 ### Web
 * [Turbo Boost Switcher Pro](https://gumroad.com/l/YeBQUF)
