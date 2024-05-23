@@ -30,6 +30,7 @@
 * openssh
 * ansible
 * virt-manager
+* mkvtoolnix
 
 ### Cask
 * iterm2
@@ -56,6 +57,7 @@
 * battle-net
 * 1password
 * raspberry-pi-imager
+* plex
 
 
 ### Apple App Store
