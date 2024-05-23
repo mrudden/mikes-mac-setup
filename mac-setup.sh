@@ -32,6 +32,7 @@ brew_formulae=(
   openssh
   ansible
   virt-manager
+  mkvtoolnix
   )
 
 # Brew Cask formulae
@@ -60,6 +61,7 @@ brew_cask_formulae=(
   battle-net
   1password
   raspberry-pi-imager
+  plex
   )
 
 # Pseudocode: for formula in brew_formulae: brew install $formula
