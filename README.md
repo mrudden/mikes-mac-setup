@@ -58,6 +58,7 @@
 * 1password
 * raspberry-pi-imager
 * plex
+* elgato-camera-hub
 
 
 ### Apple App Store

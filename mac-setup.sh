@@ -62,6 +62,7 @@ brew_cask_formulae=(
   1password
   raspberry-pi-imager
   plex
+  elgato-camera-hub
   )
 
 # Pseudocode: for formula in brew_formulae: brew install $formula
