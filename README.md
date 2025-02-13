@@ -59,6 +59,7 @@
 * raspberry-pi-imager
 * plex
 * elgato-camera-hub
+* notion
 
 
 ### Apple App Store

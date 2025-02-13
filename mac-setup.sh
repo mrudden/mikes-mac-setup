@@ -63,6 +63,7 @@ brew_cask_formulae=(
   raspberry-pi-imager
   plex
   elgato-camera-hub
+  notion
   )
 
 # Pseudocode: for formula in brew_formulae: brew install $formula
