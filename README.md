@@ -59,6 +59,8 @@
 * raspberry-pi-imager
 * plex
 * elgato-camera-hub
+* elgato-wave-link
+* elgato-stream-deck
 * notion
 
 
