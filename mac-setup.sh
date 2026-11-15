@@ -12,6 +12,7 @@ fi
 brew update
 
 # Add Brew Cask for Fonts
+# TODO: Figure out how this changed
 brew tap homebrew/cask-fonts
 
 # Brew formulae
@@ -38,10 +39,16 @@ brew_formulae=(
 # Brew Cask formulae
 brew_cask_formulae=(
   iterm2
+  ghostty
+  yubico-authenticator
   firefox
+  google-chrome
+  antigravity
+  antigravity-cli
+  google-gemini
   visual-studio-code
   github
-  docker
+  #docker
   #osquery
   #postman
   daisydisk
@@ -66,6 +73,8 @@ brew_cask_formulae=(
   elgato-wave-link
   elgato-stream-deck
   notion
+  obsidian
+  ollama-app
   )
 
 # Pseudocode: for formula in brew_formulae: brew install $formula

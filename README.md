@@ -34,10 +34,16 @@
 
 ### Cask
 * iterm2
+* ghostty
+* yubico-authenticator
 * firefox
+* google-chrome
+* antigravity
+* antigravity-cli
+* google-gemini
 * visual-studio-code
 * github
-* docker
+* #docker
 * #osquery
 * #postman
 * daisydisk
@@ -62,6 +68,8 @@
 * elgato-wave-link
 * elgato-stream-deck
 * notion
+* obsidian
+* ollama-app
 
 
 ### Apple App Store
