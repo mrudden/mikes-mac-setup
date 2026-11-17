@@ -46,6 +46,8 @@ brew_cask_formulae=(
   antigravity
   antigravity-cli
   google-gemini
+  claude
+  chatgpt
   visual-studio-code
   github
   #docker
